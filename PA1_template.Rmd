@@ -7,7 +7,7 @@ output:
     keep_md: true
 ---
 
- ## Intro
+## Intro
   
   **Reproducible Research Assignment 1**
   
