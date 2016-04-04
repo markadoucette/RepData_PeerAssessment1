@@ -2,7 +2,7 @@
 
 
 
- ## Intro
+## Intro
   
   **Reproducible Research Assignment 1**
   
